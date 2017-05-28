@@ -1,0 +1,5 @@
+*.bak
+Thumbs.db
+Desktop.ini
+nppBackup/
+node_modules/

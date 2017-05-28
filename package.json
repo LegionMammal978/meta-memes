@@ -1,0 +1,28 @@
+{
+  "name": "meta-memes",
+  "version": "0.0.0",
+  "description": "The Meta Memes programming language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmer5000-com/meta-memes.git"
+  },
+  "keywords": [
+    "language",
+    "intepreter",
+    "estoeric",
+    "command-line"
+  ],
+  "author": "programmer5000",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/programmer5000-com/meta-memes/issues"
+  },
+  "homepage": "https://github.com/programmer5000-com/meta-memes#readme",
+  "bin": {
+    "meta-memes": "cmd.js"
+  }
+}

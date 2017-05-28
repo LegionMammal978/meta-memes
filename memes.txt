@@ -1,0 +1,17 @@
+//memes (regexes comma-seperated with // comments)
+/^PPCG!?$/i,//#0
+/^(java( is too (long|verbose))?|At least it's not as long as java|java)$/i,//#1
+/^((I want an )?(avocado|avocad|avodad))$/i,//#2
+/^(((Outgolfed by )?@?Denn?is)|(Failing to Outgolf Denn?is)|(One does not simply outgolf @?Denn?is)|Dennis)$/i,//#3
+/^((This (submission|answer) is written in )?TinyMUSH)$/i,//#4
+/^(Crossed out 4 is still 4|4)$/i,//#5
+/^(Crossed out 44 is still 44|44)$/i,//#6
+/^(Crossed out 444 is still 444|444)$/i,//#7
+/^((This (submission|answer) is written in )?foo)$/i,//#8
+/^(\[(\u00a0| )*\]\(@?[^)]+\)|stealth( ping)?)$/i,//non-breaking space, space, or nothing #9
+/^(Abandon( all work( ye who enter here)?)?)$/i,//#10
+/^((Chat )?stars)$/i,//#11
+/^((Code )?review)$/i,//#12
+/^(@?Geobits( downvotes?)?)$/i,//#13
+/^(Carrots?|carrot\.[a-z]+|\^+|V+)$/i,//#14
+/^(\u0ca0(_|\.)+\u0ca0|◯_◯|O(_|\.)O|_\._)$/i//ಠ_ಠ and friends #15
